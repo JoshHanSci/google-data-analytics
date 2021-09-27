@@ -10,6 +10,7 @@ Below are the broad sections covered in the final report as well as various skil
 ## Sections
 ### Ask
 Understanding the base problem that a stakeholder asks.
+
 Essentially, you need to know the problem you need to solve before you solve it.
 
 Subjects covered:
@@ -18,6 +19,7 @@ Subjects covered:
 
 ### Prepare
 Data collection, organization, understanding, and protection to help analysts better familizarize themselves with given datasets. 
+
 Essentially, familiarizing yourself with the structure of the information you're about to work with. 
 
 Subjects covered:
@@ -26,6 +28,7 @@ Subjects covered:
 
 ### Process
 Cleaning the data to make sure preventable errors are removed, and overall make sure the dataset is in a uniform format
+
 Essentially, making sure the information you're working with is correct and is structured in a way to make analysis easier. 
 
 Subjects covered:
