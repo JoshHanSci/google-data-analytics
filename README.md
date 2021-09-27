@@ -27,7 +27,7 @@ Subjects covered:
 * R Programming Language
 
 ### Process
-Cleaning the data to make sure preventable errors are removed, and overall make sure the dataset is in a uniform format
+Cleaning the data to make sure preventable errors are removed and to insure a uniform format throughout the dataset. 
 
 Essentially, making sure the information you're working with is correct and is structured in a way to make analysis easier. 
 
