@@ -1,9 +1,9 @@
 # Google Data Analytics Project
-Repository for the Google Data Analytic Professional Certificate's Eighth Course: Complete a Case Study
-
-https://www.coursera.org/professional-certificates/google-data-analytics#courses
+Repository for the [Google Data Analytic Professional Certificate's Eighth Course: Complete a Case Study](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
 
 This repository contains all the files pertaining to my capstone case study for the Google Data Analytics Professional Certicate Program.
+
+In addition, the .csv file containing the raw data is too large to upload. [A link to the raw data can be found here](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
 Below are the broad sections covered in the final report as well as various skills demonstrated in them. 
 
