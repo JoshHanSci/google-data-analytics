@@ -1,4 +1,4 @@
-# google-data-analytics
+# Google Data Analytics Project
 Repository for the Google Data Analytic Professional Certificate's Eighth Course: Complete a Case Study
 
 https://www.coursera.org/professional-certificates/google-data-analytics#courses
